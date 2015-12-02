@@ -1,5 +1,5 @@
 env:
-  - foo=bar
+ foo bar
   
 before_prov:
   - echo 'this is happening before provisioning'
